@@ -1,0 +1,26 @@
+{
+  "name": "Curtis Maldonado",
+  "age": 53,
+  "address": {
+    "street": "Roumu Junction",
+    "city": "Vimlupfed",
+    "state": "AR",
+    "zip": "13015"
+  },
+  "contact": {
+    "phone": "(744) 639-6434",
+    "servicePhone": "800823267"
+  },
+  "birthday": "2000-01-11T05:29:59.259Z",
+  "ip": "74.86.54.221",
+  "foo": "bar",
+  "profile": {
+    "about": "Buana boj wuf hu hizi uminage guzukop feju vodo jusnuh del tizmadmu rahciwes. Eclazmew ajipa aszobsew urvu furo ho waliol zupod ic ziczo da savi. Telmiso fuz seghap gibovka sum gi ramodej lo mugkizu suhepam evuvakrak sas.",
+    "bio": "Sesa bolisojar ni dubu udailotim ujezev wi ugeco ebhi nomlah subosva cen komce puffij. Mapa jil ogbig kipmi nuzukwim zeuvanuh te oju gov returhuf aga asloha cad tewamhe tofjur huohu kekeruog. Ina ul vevok katoh vov fig idicefwel fewumi kepufi atoaje ladun calazle ivi mujut wuzaf gemor nocpoga."
+  },
+  "apiKey": "4e99f0e56f06a75bf9415dee4e82098885a3bdad951b08d2d347ba1182938dfa",
+  "currency": {
+    "code": "MGA",
+    "name": "Madagascar Ariary"
+  }
+}
