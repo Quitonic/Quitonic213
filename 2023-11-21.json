@@ -1,0 +1,26 @@
+{
+  "name": "Sue Vasquez",
+  "age": 44,
+  "address": {
+    "street": "Hokos Drive",
+    "city": "Zemaslon",
+    "state": "NV",
+    "zip": "40137"
+  },
+  "contact": {
+    "phone": "(928) 309-8377",
+    "servicePhone": "800918969"
+  },
+  "birthday": "1998-12-24T11:40:55.725Z",
+  "ip": "146.81.52.37",
+  "foo": "bar",
+  "profile": {
+    "about": "Po cabizeni fuh ka ol poh ci kedvueco ewnul vesut meebu he ku sim banebfun inaona povaw avobugok. Gip gu pioma fuut ihi mape dudkag meege bipa hupdi ze beoteire terzi mopvutfi pimziro fijmizab higzefup rivegfe. Orce ji moj zidapru diwuk fisa gu al gu oca puakreb adbo liogicu. Wo ape wo am zewto vel ec za webon su la ret wozwilmum.",
+    "bio": "Rerud dovor ta luh jidwo ur cevlula tebdes awzupwej cuz gul safzijo pog owumu zep hi uragufu fekfarev. Fa ucimep gow te guet logiv ritadu fuzvof usadu zehobis pupike sot zuv hoguv gumuv pe. Pavuof uzuamlog demdugmi zobjon sos neinebaz levej lac no lehbu lovselza jimiw cumcemeb gakagubo. De ewa buz zabecir gempoggic ifhokfib ze kedcukle win debo vakjawa eppiho pos kuevu let. Bucruzof cuva van jetcod ce jil demuno hup zuenopof pawili lod kobku uwjejha. Ahez gu poebowi tatsaf wibopred de povozen nehomi eslav sotufivo caulo ilkud usjowme vu vodmaise."
+  },
+  "apiKey": "84a91b5666c4b2096b93e9d0092bfd8ad6658191948c40bc71da93623b43ec5b",
+  "currency": {
+    "code": "ETB",
+    "name": "Ethiopia Birr"
+  }
+}
