@@ -1,0 +1,26 @@
+{
+  "name": "Dennis Griffin",
+  "age": 60,
+  "address": {
+    "street": "Goaj Glen",
+    "city": "Zohotjis",
+    "state": "RI",
+    "zip": "34122"
+  },
+  "contact": {
+    "phone": "(343) 536-4006",
+    "servicePhone": "800121959"
+  },
+  "birthday": "1999-11-10T11:32:51.442Z",
+  "ip": "232.65.199.91",
+  "foo": "bar",
+  "profile": {
+    "about": "Agu jibvod fugwok le hekri cawfepu jebus je otjuz ek mombu wu bivlurok. Sovaca va lonvet natfipet afo bu ihoji gojanlel ez hicosaono udodel tezegadu zesizja zac. Ek ijhoca gekitla jufci us sagwavtiv wumum ho sakamgew bodmuv monul dozlu kemo zi dub kana arcalef.",
+    "bio": "Ihzemca sunduzvun mi juve helzew japam oj so wuzabla papmitri iseir wajopfo. Gano fi uli jov bu umedino vevab bugi diwukrut wid ker bukpofek cuhlecab jug. Ucomah tiagdut diof no cafed laliag daucoel ni hu ascira nu wugatej."
+  },
+  "apiKey": "98e0392ba1c5f768ce6477de92fb5b749bbbf3398b2850eedd75e2299af0012e",
+  "currency": {
+    "code": "CAD",
+    "name": "Canada Dollar"
+  }
+}
