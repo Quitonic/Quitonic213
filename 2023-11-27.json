@@ -1,0 +1,26 @@
+{
+  "name": "Thomas Bradley",
+  "age": 18,
+  "address": {
+    "street": "Norha Turnpike",
+    "city": "Misiwniz",
+    "state": "SD",
+    "zip": "35830"
+  },
+  "contact": {
+    "phone": "(589) 897-1604",
+    "servicePhone": "800664557"
+  },
+  "birthday": "1995-10-17T22:44:01.061Z",
+  "ip": "206.188.224.1",
+  "foo": "bar",
+  "profile": {
+    "about": "Of cakgez tapwumu uzivoda vavbako sockeki za kod tuwjapa owwu on mi vuesu vudaco. Fak kutkacmo ba lajtoggug seihija iduwohti fit fucel ro buluili deiso firwusi ute zawolgig. Ovu kowhi lez tijeol pe nev havut zadon jok deotoza awza resulom. Ca fetbap za hikoke padus jedoow ri nihuvmu wer epu eku monboc mavnaf laibeba.",
+    "bio": "Didoh gewufe iwsuc membejguw cecfonza roec rumwupa ulhiufe toveron vah doma iv kebindej ruzi fuzaj. Vekus za ped viga dikjower ko tor ulirom ajoviksob va mibitu udoraec awi mo wame ro. Ozovicur pa ilcopwek kat zuurge ganodu vapi ebbilja ecti gocivaj nefnaziz ugojis."
+  },
+  "apiKey": "d3d77ebdf375393db711e5458e73af222f78ae4f7ee29ed804f3b54655a3257a",
+  "currency": {
+    "code": "GEL",
+    "name": "Georgia Lari"
+  }
+}
