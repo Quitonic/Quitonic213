@@ -1,0 +1,26 @@
+{
+  "name": "Ruby Manning",
+  "age": 49,
+  "address": {
+    "street": "Deala Trail",
+    "city": "Lupbefuz",
+    "state": "MT",
+    "zip": "48238"
+  },
+  "contact": {
+    "phone": "(746) 799-9277",
+    "servicePhone": "800371347"
+  },
+  "birthday": "1998-07-11T18:11:41.796Z",
+  "ip": "74.179.216.105",
+  "foo": "bar",
+  "profile": {
+    "about": "Voivo siti fe ek iniharba vamu pakaj idvec zeke gol cedlok cip mi bir fu egepi zi. Besi anocu jago vo otegidop gu feimonin udruz wizopsi liasot ajaeladid pedi uju sagse zarente bom. Jiloda gujba abofovge robowku wev vu hi zapivupi okekaj johit zo semkatus ucole ta tih cenidij jeweb suki. Nomibir usuwifute puswo cuvgihnem ehmut zoguw sa ehicis wa duwti ronor jezwawo bijal mojkit mildudhuv.",
+    "bio": "Min delen vanjevfow jodfivato de mek te mo ki gohlis hawuvutu gowow jodouh hepuv alo ufubujas lomfak tug. Iplela hopji pocfoida vez vibollus dewejka zit sidcuzop gasro duham ihvapwoz bedhok lo. Rirapeb izesiwguj wofem ci zemza gu poco vomihi izikefot ze lo zicmabor muvwab."
+  },
+  "apiKey": "d7d8a9b8b5b99a44a53cb18107574775662e91e2abd71f2bf36717c595dae4ec",
+  "currency": {
+    "code": "XPF",
+    "name": "Comptoirs Français du Pacifique (CFP) Franc"
+  }
+}
