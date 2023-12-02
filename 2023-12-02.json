@@ -1,0 +1,26 @@
+{
+  "name": "Travis Byrd",
+  "age": 21,
+  "address": {
+    "street": "Arilod Street",
+    "city": "Ankubu",
+    "state": "OR",
+    "zip": "67976"
+  },
+  "contact": {
+    "phone": "(632) 814-8152",
+    "servicePhone": "800834272"
+  },
+  "birthday": "2005-04-13T20:12:50.471Z",
+  "ip": "221.186.194.1",
+  "foo": "bar",
+  "profile": {
+    "about": "Ti cimej janam diaf ro feefuug won la cafgotber je zujelzuw cacje vudi paasipo irji. Necpud ze murzekka te guwaczut cuvroajo hir reod uzamu naukjiv tuzu kevhezwab gicpora. Pawpuc weko bijihgu jodil udo itkuva suvda zuzama funajupok up konodec cela ben ibowe rokvazag. Sa kinib pi lebus ciuv pacowla beztiwon meb dodo ufzoah roniasu gebatem durbi me. Fahta gej gicti zusuv eweve vaowe nipo me famaz cetevata dov hucukefoz cobojmap. Sefbozgi fa we vih kac bek pajmusbid wotdofnu orensu puigero rab leen.",
+    "bio": "Lasuto coitime gube isuele do zifrodo tezluju zo jus imole el jumiji boare boz wo cet. Moak ojtenit zo sufomoh war upjizav muvpo veepgi wer sef wa wovhic liko. Bujag gorde dilobom dazuupi hap sona izle agauf hid kurok ewokij ote vuk. Desmuic mieze lociguki fez lauk siv teziptu tejepi gezbepu ohesi katse zeldo."
+  },
+  "apiKey": "91f6400ffdc3b3de36fef3df88b1b42db408b48fc515c7e5b6590f45a1ad6232",
+  "currency": {
+    "code": "HTG",
+    "name": "Haiti Gourde"
+  }
+}
