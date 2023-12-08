@@ -1,0 +1,26 @@
+{
+  "name": "Sally Hansen",
+  "age": 46,
+  "address": {
+    "street": "Uboja Way",
+    "city": "Tannujru",
+    "state": "NH",
+    "zip": "17933"
+  },
+  "contact": {
+    "phone": "(959) 912-5986",
+    "servicePhone": "800551513"
+  },
+  "birthday": "1969-01-13T19:19:13.486Z",
+  "ip": "247.29.74.214",
+  "foo": "bar",
+  "profile": {
+    "about": "Mam rose ji bi kosvol mudbezma ze onuroc nifneg tacan miro om wej bidi suen. Oj buip egoesa dogpahpo bukiom ac lu zumafoapo gewze ogpikjuh besjo coen vuhwehil kilofbam rupirgup weolibe jutikfe av. Bo dakzof fec per fej roguv goavies jos javsezu ni zat kufjo de. Ta veg tez da run ikowuf mu dow juzranwi ozeafe abniljad fur cefjibu lez pe satnu.",
+    "bio": "Pulkot tavja top low gawiwjad waulu pa man laf andujbul mikbowu furtu wuocsi. Ugani ujajidza ifufud hes duz ocner nepmuhus civ dueh esafurna vaw ricitaje omu jalawvot. Ec miwujfer vejkiwa jeg pove tohno tuvi erijirvan faafi beguina kazdimso kijmujik bot zusduf. Kuruvi bozeg homecsob ceccuej gelojmud zevedfu liiz zewru benolupa uczi kof guadewo lofapo umuaci ir ra car amekela. Afe masce ucihuzogo ifmatbu ril zuwibo lal hewbija sajucwi lavjarti bool ip pictafi lamu cuhuro umuwu ot."
+  },
+  "apiKey": "29c5b625b769097b5f8f37d9b2f98335e8ce079de2bbfd8ec95d899498797788",
+  "currency": {
+    "code": "ZMW",
+    "name": "Zambia Kwacha"
+  }
+}
