@@ -1,0 +1,26 @@
+{
+  "name": "Russell Nelson",
+  "age": 22,
+  "address": {
+    "street": "Teste Parkway",
+    "city": "Kikcesu",
+    "state": "OR",
+    "zip": "59491"
+  },
+  "contact": {
+    "phone": "(261) 952-4519",
+    "servicePhone": "800451893"
+  },
+  "birthday": "1961-09-04T07:02:46.434Z",
+  "ip": "149.156.48.252",
+  "foo": "bar",
+  "profile": {
+    "about": "Cenekra zecnogka ehahulvu lukemofu rerpoke kudake kiklogbo maasfav ob mikeido inina gusmo. Ni me waclefpe larlafa pazih emurir ge epuiziga rues gabize ectigit ogo sapahfu wen ref loz zafihe vil. Elupojogu jega pum varsoali afimo gotoeto awa giccegad etvovez hom wo ledka legbiwwu eti pudha ce. Zeaserod pizal dejob huget ku suliv vuiwe jim daj vozwe ma vihcun feuhiel. Zo vifovda kiha rahbaja vihhu zo zivsalav dig ivefocwud is wi errigfe lojsotew sovimwem li boroti.",
+    "bio": "Buvu linwaav gobot okfuwrir hifa juhtes bujheti huificib maafa kajag er fih bu papub sog cec lo jarcacpev. Itovibzet modu fubpelgor ininigke hufohip ejera ijidola hu jagoolo kowichi jabto dalsu bew. Neig jujjarela asigop hec sisom wojas we ka succo nab evvoseg posaz rogcekor. Fifem vorkan ca hizipu wubejod nufireofi ehelu hu jul ufolieb sebdodiz lehmavji. Solmojuhi hegijepi uhcogir owrase goejo kabiwat laasiku buhid uvi rugiwcic top esu teze tamhor zakis. Om egazezpir faurfil sam keh feitosa kinkot hiw fietotac ica dudniz fa vissemes wuhrovzo. Tolveko ogkav atro racjofadi mohtol fepek jonhilip tiffurzig vo kohbusov kov velemuk hon sinakemu vagcofkuf hujwafviz si laedla."
+  },
+  "apiKey": "c1b73575463c610d7e09dddf009eac8aaa9eca221eeaec99d6b4a2596457b13b",
+  "currency": {
+    "code": "SGD",
+    "name": "Singapore Dollar"
+  }
+}
