@@ -1,0 +1,26 @@
+{
+  "name": "Ricardo Higgins",
+  "age": 27,
+  "address": {
+    "street": "Laeca Terrace",
+    "city": "Lunilaf",
+    "state": "AR",
+    "zip": "28700"
+  },
+  "contact": {
+    "phone": "(806) 782-7256",
+    "servicePhone": "800833572"
+  },
+  "birthday": "1995-07-11T18:23:56.613Z",
+  "ip": "76.132.52.79",
+  "foo": "bar",
+  "profile": {
+    "about": "Kewutve liwtas tessoif vuce gitirju teho bitzu otulehi oholo sec fa tocvo tew ben. Wo ve ujoebov kinjibur ziik zijef bepejo vatbozwat gevoj turkumsu cu udaremo sefvu. Jagifus mobhe fe en igicu de sa cuju uso wuv pit hakben uwdeb ha vo vusre nolefele jogu.",
+    "bio": "Kuckugki ditro sov batu ful winhoj nalawle emi azotehag regmepep bal infi tuvihes gul za. Uf ova pasjuvzef us cocmuzavo po hawkirta caspon fu be hilinika uk bufti vu. Abbo ema ga cultuf ak re ta furamzut gu da wal ihadabiw. Fashoroh owgulbuk sud jejevte curugme et ec pej oheik tefnetuv zatow pujvatuwe aza ig mekeju nigowup imo."
+  },
+  "apiKey": "4da9c4903aa3671065e64a5022c0fa2948757d40952857ee3e458f97f88ff153",
+  "currency": {
+    "code": "GMD",
+    "name": "Gambia Dalasi"
+  }
+}
