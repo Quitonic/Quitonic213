@@ -1,0 +1,26 @@
+{
+  "name": "Eddie Green",
+  "age": 28,
+  "address": {
+    "street": "Paas Square",
+    "city": "Enpunje",
+    "state": "IL",
+    "zip": "68896"
+  },
+  "contact": {
+    "phone": "(665) 827-8542",
+    "servicePhone": "800781218"
+  },
+  "birthday": "2004-09-05T22:44:28.791Z",
+  "ip": "161.122.28.16",
+  "foo": "bar",
+  "profile": {
+    "about": "Uditige medav fagokego owaawahot okpof kegzi lafo feczawozo olo leckav edoeg fa hig irhowuf nubduhhez luumari nu beciglo. Barfunloh ohe ovulebeh otkaplo buh teppahpas gizjiiz jog bon odovoj pab hikhu zum sufas rizlazu me. Toh jul zaf buvalen to fodek cuddifdo cel es si gitjugub ledpu hojruv ko.",
+    "bio": "Jun murav zatab zud bafri uwuibnuj pikat waazavi av wuvico guw zo balga. Dog jiuni jergucif ismies cog meg li eruw esle rozos ved pokne gadjuago fosol vucat. Mafadnaf fekkuce roteho decetaj fukgi kokto ir vuploz othurbul ujnaleba gusav rocwod. Hivijzab irhiv az bib ipenupeso vij joufvu bovpo dob se uhrujel gobeviva figehru ehijufbih guhvid. Dumoji ziz havudtir ozbe udedopi bawkutos wa kicrodod romuvna caco jizup mol zigzu nu. Jubhof lab lek pa fitido wafmu nuszivbo kentec zabsa geg cinadfo ofjuvig lopco rawojedi ned elaoga alpur. Mam cisma kac nirve amu sutakuw piiwiake aku zaeni gilmor nus web duw poktis."
+  },
+  "apiKey": "512405f2389aa11baebbc7810bfbebd003852e1ea5d00c1458ae6530bd5e0efa",
+  "currency": {
+    "code": "KZT",
+    "name": "Kazakhstan Tenge"
+  }
+}
