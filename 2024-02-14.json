@@ -1,0 +1,26 @@
+{
+  "name": "Jimmy McGee",
+  "age": 58,
+  "address": {
+    "street": "Lofah Parkway",
+    "city": "Irdetom",
+    "state": "NE",
+    "zip": "46794"
+  },
+  "contact": {
+    "phone": "(850) 820-6568",
+    "servicePhone": "800624214"
+  },
+  "birthday": "1971-12-10T10:20:25.966Z",
+  "ip": "213.214.2.172",
+  "foo": "bar",
+  "profile": {
+    "about": "Etice doetu zohho zejtet ga lazzu do picek osope jodaw mankejhop tipfig. Reega cuddosten hilico tovep ha ojmap jamo hav givwog leh pili umnad geezo iba rewwenvej jemdu. Noigu icvuk wub vebhu tapig ejpi hahpem ahhojelo ba ocatep ajtinon ru mef fenpoj ogeba ukhu uvfaeni.",
+    "bio": "Zop giwveguf iveali koffe bajazra azro fih ab senup aheigjog kawud gum abukoh akapi akohob denogca gogpa. Patidru vi melcehez du jeb cef voc jab ihok jawefi cotzize kenemida ekhasin heeju ut kolro dadep pog. Wurokjus pat ecosofop niccu pi ot baifle afupo lorhi oganes tob ajisekiz emiceb."
+  },
+  "apiKey": "f8aa1a98490ce6f1bee175e4d5096896ef7448764c42d50368f8d09730f6b83e",
+  "currency": {
+    "code": "GNF",
+    "name": "Guinea Franc"
+  }
+}
