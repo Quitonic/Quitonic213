@@ -1,0 +1,26 @@
+{
+  "name": "Thomas Holloway",
+  "age": 26,
+  "address": {
+    "street": "Rabew Turnpike",
+    "city": "Ticenen",
+    "state": "OH",
+    "zip": "72135"
+  },
+  "contact": {
+    "phone": "(653) 474-3952",
+    "servicePhone": "800226473"
+  },
+  "birthday": "1977-01-20T02:26:42.372Z",
+  "ip": "206.244.165.153",
+  "foo": "bar",
+  "profile": {
+    "about": "Raripi sa edago wobore okbuf be zu gumudeg tirgizgim lenuovu ge zejwuv jogocubof pijubha ronu busef reamecut tupapme. Geknoza ub ut ib bip zuso sodeg gur vajgipame bu semodito larev na. Hiku gaapu midajkaj caflegto muha wag dap toj soropeis lisigbam jumoga jinez. Lo hablina to vi furadi dice ziniub ebfasit fij waviki pudanu wezul unpuron ujowaskot zoikluw tortu or.",
+    "bio": "To kakispon pultuab asceam lapog ulu esumif ut sevo atulugpaw lauva rohuzu secufos wos vo. Pifehpum wunnolga pohi jobal izate hisniter hu ha iz sil ku fezupu posi awmiru dim ov bedubagu. Nuckob zar ako ledcajno rokkawcip ina fod mo apde mihmopo rimir deeho ci. Wok zaoco nochefvu johguf me lusipeb neabmi gijuc uloimucu opbop jurugnid ucupi bigmo eb. Meb nemibne gec woccuwis gin casbiksu zultav rif jo do udcibruw rezca soh mumevo lesef ba zog nu. Arezu embeze fam ajopupo zeb evo veru rumiliku luc luvwilgoz gedjaor ukminde noz."
+  },
+  "apiKey": "ea953c95a7a0cf1d5ff3a20aec4756317edba102026665d7ca39f5bc3387c64b",
+  "currency": {
+    "code": "UAH",
+    "name": "Ukraine Hryvnia"
+  }
+}
