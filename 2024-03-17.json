@@ -1,0 +1,26 @@
+{
+  "name": "Mario Butler",
+  "age": 41,
+  "address": {
+    "street": "Lactin Pass",
+    "city": "Fihpadted",
+    "state": "GA",
+    "zip": "59613"
+  },
+  "contact": {
+    "phone": "(346) 819-6876",
+    "servicePhone": "800783837"
+  },
+  "birthday": "1960-04-30T05:38:56.737Z",
+  "ip": "4.76.193.17",
+  "foo": "bar",
+  "profile": {
+    "about": "Ugivome pizgavoj hu lazel hewekwi ta ab riltutja inub zocar eg gucebsit zajek nu zep olahefpif. Sedac nu acobood nawune oweko vijas su eh tavta bilhajo iki cibhektan bowfodsef jo inrabeh da pegasa madihe. Ceiwiiz parippu ubne sogdu fun la hihu mi duwe dibu migo ute nupil udzodhoh gidfi.",
+    "bio": "Mov ejeibieg edosi ogucas oc put ig kihuno abzobe regaur ne anoil dijaf iphohfol omecuz nuc vujek. Hiwar wehac obuhag unci mihvo ce eppaslur hamot ga pi kioj fokdowiho sauri. Fab ubiketo ca he cepindu mas medi kugega vium urjawa foluzve faowva gapnigfu lisiesi ricbe."
+  },
+  "apiKey": "3642bd58de3a1f334b17cc89024bb54ac56edf8b251bc6e3f744d70f9e01904f",
+  "currency": {
+    "code": "MUR",
+    "name": "Mauritius Rupee"
+  }
+}
