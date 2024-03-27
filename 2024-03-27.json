@@ -1,0 +1,26 @@
+{
+  "name": "Walter Ford",
+  "age": 65,
+  "address": {
+    "street": "Duhala Street",
+    "city": "Nepitci",
+    "state": "WI",
+    "zip": "22371"
+  },
+  "contact": {
+    "phone": "(556) 819-5992",
+    "servicePhone": "800788864"
+  },
+  "birthday": "1996-09-19T06:42:00.350Z",
+  "ip": "96.194.25.163",
+  "foo": "bar",
+  "profile": {
+    "about": "Muwo otitez luda kek hakfaptak sarecfu ce gazidaci we ku piipaur nukoglet ro fagevhul. Vukrapupe zi tarwolho ga hebez okukoube geswal lokus uw raaba uduvow jecabo dewic. Doshedo mipemi nonha huzavu zudbevwa pe kir ara odluvfet webuwi fi bu afva zusdakmiv zobjut zokizbi fu. Afrab ku wi tocihu herrakuw emubo lelre hu satuab kusas ulewalvuv mukfutkon. Nuhihuv dadocve zovudus vinezro sisodcuv nuzmok usikaspu eso acaiwier luzof toregod gec konidogod. Vevoigi joc kitu ah icovedo aruotu hiekeli aglo nez zuoremin detov wagekgaj askiha educip te.",
+    "bio": "Wogmidho eg uhten owifo ewatiala ubwooga sapjij epme zokgus mabaffaf hetuha bopjavzoj ijmeoz cuk newoh ubsu. Nivrasnaw um buz dop juzavdap sagsoev ra ukudotaj deb edda zekpi cukesa ojuumran hohzarbo aktizta hadeil. Jofaku ren rockigumu emobesoze asakuor jinutiko voehoso zutiw hudkiwato va kag ati jabalinop."
+  },
+  "apiKey": "cb03fedbfcb9a0c59f116a4bbc4b016aa244d33e3a2928b89723ef9043722724",
+  "currency": {
+    "code": "LYD",
+    "name": "Libya Dinar"
+  }
+}
