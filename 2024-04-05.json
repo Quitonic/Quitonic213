@@ -1,0 +1,26 @@
+{
+  "name": "Alice Mitchell",
+  "age": 52,
+  "address": {
+    "street": "Hodeci Ridge",
+    "city": "Vapsigib",
+    "state": "IA",
+    "zip": "57670"
+  },
+  "contact": {
+    "phone": "(919) 484-1648",
+    "servicePhone": "800586898"
+  },
+  "birthday": "1972-05-07T02:04:48.785Z",
+  "ip": "79.47.40.194",
+  "foo": "bar",
+  "profile": {
+    "about": "Urzi torin uji ne riamokuz cuw jamkev cusni lab muscuz goftattug vab. Hujjaruz wi udi povu pu zahewat gawut za irhef je afa dat kali ohvog. Nebir hige isalahter lol taw fieb uc gokbu if udvizfu palohu neke wes uma aluhizatu poge cijunbe derzevuw. Zag vebenjow ledew ni gamud ogkulen sobgevek vapo ruvwuw oruk sobfiw jitne tut hum.",
+    "bio": "Ceri fikus zadife pu kor ifoh fu miec ze sona mizafhi fej luow. Oculihsu hu ledkah ozjiser ze ne ruh fu duwi huwuz nugfurvat gumdehmi nopem laga juh ezokilzud tosgafe. Duw fon japcu had liugaviw gesfilma gat funras wul jazpa faw la ugti wu ji uv foezioj."
+  },
+  "apiKey": "8ef8cc97b6f6499116bb2a9a9734ac8aff5f740ce3cc81b0005007e0261ea9c7",
+  "currency": {
+    "code": "CHF",
+    "name": "Switzerland Franc"
+  }
+}
